@@ -30,7 +30,7 @@ justify-content: center;
     justify-content: center;
     text-align: center;
     font-size: 15px;
-   
+    margin-right:1% ;
    box-shadow:   2px 2px 2px hsl(180, 3%, 82%);
 }
 
@@ -53,4 +53,8 @@ font-weight: 700;
     font-size: 15px;
    color: hsl(220, 15%, 55%);
   
+}
+footer{
+    position: fixed;
+    bottom: 0;
 }
